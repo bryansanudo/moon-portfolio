@@ -61,7 +61,7 @@ const Navbar = ({ isMenuShown, setIsMenuShown }) => {
           >
             {isMenuShown ? <FaTimes size={30} /> : <FaBars size={30} />}
           </div>
-          <a href="https://www.instagram.com/elisabethmoondj/">
+          <a href="https://moon-marcas.vercel.app/">
             <div>
               <img
                 src={logo2}
