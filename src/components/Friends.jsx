@@ -23,7 +23,7 @@ const Friends = () => {
   ];
 
   return (
-    <PageSection name="portafolio" title="Colaboraciones">
+    <PageSection name="colaboraciones" title="Colaboraciones">
       <div className="w-full bg-gradient-to-b from-gray-800 to-black text-white">
         <div className="mx-auto flex h-full w-full max-w-screen-lg flex-col justify-center p-4 ">
           <div className="grid gap-8 md:px-12 grid-cols-1 sm:grid-cols-2  lg:grid-cols-2">
