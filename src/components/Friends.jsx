@@ -10,7 +10,7 @@ const Friends = () => {
       id: 1,
       src: logoEliana1,
 
-      code: "https://www.instagram.com/p/CfXVUefuIEe/",
+      code: "https://eliana-portafolio.vercel.app/",
       brand: "@elianacaro12",
     },
     {
