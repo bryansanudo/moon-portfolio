@@ -9,8 +9,6 @@ import portfolio5 from "@/assets/portfolio/portfolio5.jpg";
 import portfolio6 from "@/assets/portfolio/portfolio6.jpg";
 import portfolio7 from "@/assets/portfolio/portfolio7.jpg";
 import portfolio8 from "@/assets/portfolio/portfolio8.jpg";
-import portfolio9 from "@/assets/portfolio/portfolio9.jpg";
-import portfolio10 from "@/assets/portfolio/portfolio10.jpg";
 
 import video1 from "@/assets/portfolio/video1.mp4";
 import video2 from "@/assets/portfolio/video2.mp4";
